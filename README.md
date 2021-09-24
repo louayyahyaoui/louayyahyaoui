@@ -31,7 +31,7 @@ I am completely passionate about frontend/backend development, MERN-stack and al
 ## :eyes: Some Statistics
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-<img title="My status" align="left" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=louayyahyaoui&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
+<img title="My status" align="center" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=louayyahyaoui&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"
 />
 
 
