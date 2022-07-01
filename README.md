@@ -13,7 +13,7 @@
 />
 
 
-My name is **Louay Yahyaoui**, I'm 23 years old and I'm a final year  **Computer Science** student at (**ESPRIT**) in Tunisia.
+My name is **Louay Yahyaoui**, I'm 23 years old and I'm a **computer engineer** graduated from (**ESPRIT**) in Tunisia.
 I am completely passionate about frontend/backend development, MERN-stack and also very interested in data analysis. I love listening to music :heartbeat: :notes:, watching movies, series and sharing it with my friends <img height ="20" src= "https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
 
 
@@ -28,8 +28,6 @@ I am completely passionate about frontend/backend development, MERN-stack and al
 
 - 💬 Ask me about programming in general, I am always <br> available to help and learn together.
 - ✨ I love to create different types of **contents**.
-
-- 👨‍💻 Interned at :   [![Gitlab](https://img.shields.io/badge/-Agence%20Parisienne%20des%20talents-blue?style=flat)](https://agenceparisienne.fr)
 - ⚙️ Using the following tools : [![Jira](https://img.shields.io/badge/-Jira-blue?style=flat&logo=Jira&logoColor=white)](https://www.linkedin.com/in/louay-yahyaoui-esprit/)
 [![VsCode](https://img.shields.io/badge/-VsCode-grey?style=flat&logo=VisualStudioCode&logoColor=white)](https://www.linkedin.com/in/louay-yahyaoui-esprit/)
 [![Gitlab](https://img.shields.io/badge/-Gitlab-orange?style=flat&logo=Gitlab&logoColor=white)](https://www.linkedin.com/in/louay-yahyaoui-esprit/)
